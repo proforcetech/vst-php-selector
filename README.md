@@ -1,3 +1,9 @@
+Based on 
+<h4>Discussion</h4>
+https://forum.vestacp.com/viewtopic.php?f=41&t=20571
+
+With additional support PHP 8.1 and PHP 8.2
+
 # VestaCP PHP Multi Selector, PHP 5.6, 7.0, 7.1, 7.2, 7.3, 7.4, 8.0
 Vestacp, multi selector versions of php 5.6, 7.0, 7.1, 7.2, 7.3, 7.4, 8.0 for Ubuntu (Debian).
 
@@ -47,6 +53,8 @@ $ sudo apt install php7.2-apcu php7.2-mbstring php7.2-bcmath php7.2-cli php7.2-c
 $ sudo apt install php7.3-apcu php7.3-mbstring php7.3-bcmath php7.3-cli php7.3-curl php7.3-gd php7.3-intl php7.3-mcrypt php7.3-mysql php7.3-soap php7.3-xml php7.3-xmlrpc php7.3-json php7.3-zip php7.3-memcache php7.3-memcached php7.3-ldap 
 $ sudo apt install php7.4-apcu php7.4-mbstring php7.4-bcmath php7.4-cli php7.4-curl php7.4-gd php7.4-intl php7.4-mcrypt php7.4-mysql php7.4-soap php7.4-xml php7.4-xmlrpc php7.4-json php7.4-zip php7.4-memcache php7.4-memcached php7.4-ldap 
 $ sudo apt install php8.0-apcu php8.0-mbstring php8.0-bcmath php8.0-cli php8.0-curl php8.0-gd php8.0-intl php8.0-mcrypt php8.0-mysql php8.0-soap php8.0-xml php8.0-xmlrpc php8.0-json php8.0-zip php8.0-memcache php8.0-memcached php8.0-ldap 
+$ sudo apt install php8.1-apcu php8.1-mbstring php8.1-bcmath php8.1-cli php8.1-curl php8.1-gd php8.1-intl php8.1-mcrypt php8.1-mysql php8.1-soap php8.1-xml php8.1-xmlrpc php8.1-zip php8.1-memcache php8.1-memcached php8.1-ldap
+$ sudo apt install php8.2-apcu php8.2-mbstring php8.2-bcmath php8.2-cli php8.2-curl php8.2-gd php8.2-intl php8.2-mcrypt php8.2-mysql php8.2-soap php8.2-xml php8.2-xmlrpc php8.2-zip php8.2-memcache php8.2-memcached php8.2-ldap
 ```
 
 For old version of Ubuntu
